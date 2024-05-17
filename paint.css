@@ -1,0 +1,9 @@
+#canvas {
+   border: 1px solid black;
+   width: 90%;
+   height: 90vh; /* El 90% de la altura de la ventana del navegador */
+}
+#colorPicker {
+   width: 100px;
+   height: 100px;
+}
